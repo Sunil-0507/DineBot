@@ -1,0 +1,1 @@
+// Mongoose Restaurant model
