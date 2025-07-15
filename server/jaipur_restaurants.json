@@ -1,1 +1,1007 @@
-[]
+[
+  {
+    "name": "Restaurant 1",
+    "cuisine": "Italian",
+    "location": "C-Scheme, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 41,
+    "occupancy": 11,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,italian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 2",
+    "cuisine": "Chinese",
+    "location": "Vaishali Nagar, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 42,
+    "occupancy": 12,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,chinese",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 3",
+    "cuisine": "Mexican",
+    "location": "Tonk Road, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 43,
+    "occupancy": 13,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,mexican",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 4",
+    "cuisine": "Thai",
+    "location": "Mansarovar, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 44,
+    "occupancy": 14,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,thai",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 5",
+    "cuisine": "Continental",
+    "location": "Ajmer Road, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 45,
+    "occupancy": 15,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,continental",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 6",
+    "cuisine": "Indian",
+    "location": "Malviya Nagar, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 46,
+    "occupancy": 16,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,indian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 7",
+    "cuisine": "Italian",
+    "location": "C-Scheme, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 47,
+    "occupancy": 17,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,italian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 8",
+    "cuisine": "Chinese",
+    "location": "Vaishali Nagar, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 48,
+    "occupancy": 18,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,chinese",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 9",
+    "cuisine": "Mexican",
+    "location": "Tonk Road, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 49,
+    "occupancy": 19,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,mexican",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 10",
+    "cuisine": "Thai",
+    "location": "Mansarovar, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 50,
+    "occupancy": 10,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,thai",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 11",
+    "cuisine": "Continental",
+    "location": "Ajmer Road, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 51,
+    "occupancy": 11,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,continental",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 12",
+    "cuisine": "Indian",
+    "location": "Malviya Nagar, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 52,
+    "occupancy": 12,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,indian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 13",
+    "cuisine": "Italian",
+    "location": "C-Scheme, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 53,
+    "occupancy": 13,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,italian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 14",
+    "cuisine": "Chinese",
+    "location": "Vaishali Nagar, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 54,
+    "occupancy": 14,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,chinese",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 15",
+    "cuisine": "Mexican",
+    "location": "Tonk Road, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 55,
+    "occupancy": 15,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,mexican",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 16",
+    "cuisine": "Thai",
+    "location": "Mansarovar, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 56,
+    "occupancy": 16,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,thai",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 17",
+    "cuisine": "Continental",
+    "location": "Ajmer Road, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 57,
+    "occupancy": 17,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,continental",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 18",
+    "cuisine": "Indian",
+    "location": "Malviya Nagar, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 58,
+    "occupancy": 18,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,indian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 19",
+    "cuisine": "Italian",
+    "location": "C-Scheme, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 59,
+    "occupancy": 19,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,italian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 20",
+    "cuisine": "Chinese",
+    "location": "Vaishali Nagar, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 40,
+    "occupancy": 10,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,chinese",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 21",
+    "cuisine": "Mexican",
+    "location": "Tonk Road, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 41,
+    "occupancy": 11,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,mexican",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 22",
+    "cuisine": "Thai",
+    "location": "Mansarovar, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 42,
+    "occupancy": 12,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,thai",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 23",
+    "cuisine": "Continental",
+    "location": "Ajmer Road, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 43,
+    "occupancy": 13,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,continental",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 24",
+    "cuisine": "Indian",
+    "location": "Malviya Nagar, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 44,
+    "occupancy": 14,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,indian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 25",
+    "cuisine": "Italian",
+    "location": "C-Scheme, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 45,
+    "occupancy": 15,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,italian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 26",
+    "cuisine": "Chinese",
+    "location": "Vaishali Nagar, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 46,
+    "occupancy": 16,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,chinese",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 27",
+    "cuisine": "Mexican",
+    "location": "Tonk Road, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 47,
+    "occupancy": 17,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,mexican",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 28",
+    "cuisine": "Thai",
+    "location": "Mansarovar, Jaipur",
+    "priceRange": "$$",
+    "seatCapacity": 48,
+    "occupancy": 18,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,thai",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 29",
+    "cuisine": "Continental",
+    "location": "Ajmer Road, Jaipur",
+    "priceRange": "$$$",
+    "seatCapacity": 49,
+    "occupancy": 19,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,continental",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread from tandoor",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Restaurant 30",
+    "cuisine": "Indian",
+    "location": "Malviya Nagar, Jaipur",
+    "priceRange": "$",
+    "seatCapacity": 50,
+    "occupancy": 10,
+    "imageUrl": "https://source.unsplash.com/400x300/?restaurant,indian",
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy",
+        "price": 250
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato base",
+        "price": 300
+      },
+      {
+        "name": "Chicken Biryani",
+        "description": "Basmati rice with spicy chicken and herbs",
+        "price": 280
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls with mixed vegetables",
+        "price": 180
+      }
+    ]
+  }
+]
